@@ -87,8 +87,8 @@ header{
 }
 .menubar img{
   display: none;
-  height: 30px;
-  margin-top: 22px;
+  height: 32px;
+  margin-top: 21px;
 }
 .menu{
   display: flex;
