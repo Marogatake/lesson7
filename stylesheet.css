@@ -327,7 +327,6 @@ header{
     margin-left: 0;
     width: 95%;
   }
-
 }
 /* .inquiry_place終わり */
 /* footerの指定 */
@@ -466,6 +465,9 @@ header{
     text-align: center;
     width: 370px;
     margin-top: 18px;
+  }
+  .company{
+    padding-left: 25px;
   }
   .footer_address p{
     text-align: center;
