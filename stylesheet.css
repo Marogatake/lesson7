@@ -2,7 +2,7 @@ body{
   margin: 0;
   padding: 0;
 }
-h1,h2,h3,h4,h5,h6,p,a,li,ul,span,dl,dt,dd,input{
+h1,h2,h3,h4,h5,h6,p,a,li,ul,span,input{
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -87,8 +87,8 @@ header{
 }
 .menubar img{
   display: none;
-  height: 45px;
-  margin-top: 13px;
+  height: 30px;
+  margin-top: 20px;
 }
 .menu{
   display: flex;
@@ -311,6 +311,9 @@ header{
   .inquiry_form{
     width: 80%;
   }
+  .required{
+    margin-left: 20px;
+  }
   .text_name,.text_address,.text_company,.text_title{
     display: block;
     margin-top: 15px;
@@ -393,7 +396,7 @@ header{
 .footer_menu{
   display: flex;
 }
-.footer_home,.footer_business,.footer_subsidy,.footer_service,.footer_company,.footer_faq{
+.footer_home,.footer_business,.footer_subsidy,.footer_service,.footer_company{
   border-right: 1px solid #000;
 }
 .footer_faq{
