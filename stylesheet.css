@@ -456,7 +456,7 @@ header{
     margin-right: 10px;
   }
 }
-@media screen and (max-width:765px){
+@media screen and (max-width:780px){
   .footer_info{
     display: block;
   }
